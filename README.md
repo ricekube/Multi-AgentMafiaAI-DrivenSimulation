@@ -41,20 +41,7 @@ Dynamic discussion and voting phases
 No API keys required
 Runs entirely locally
 Easily extendable with new roles and models
-💡 Why Local Models?
 
-This project uses local LLMs because I am not willing to rely on paid API calls for large models during continuous multi-agent simulation.
+Running locally to avoid API costs
 
-Running locally avoids:
 
-API costs
-Rate limits
-Token restrictions
-External service dependency
-
-It also enables unlimited gameplay and experimentation with multi-agent AI systems.
-
-⚠️ Notes
-Performance depends on hardware (RAM, CPU/GPU, SSD strongly recommended)
-Large models may cause lag or timeouts
-Quantized models are recommended for smoother gameplay
